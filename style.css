@@ -658,13 +658,13 @@ footer {
 
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
   .overlay p {
     font-size: 18px;
   }
 
   .sobre-mi .contenedor {
-    width: 250px;
+    width: 330px;
   }
 
   .overlay i {
@@ -712,4 +712,11 @@ footer {
     text-align: justify;
   }
   
+}
+
+@media screen and (max-width: 400px) {
+  .sobre-mi .contenedor {
+    width: 300px;
+  }
+
 }
