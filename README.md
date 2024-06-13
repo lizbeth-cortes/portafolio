@@ -1,4 +1,4 @@
-# Portafolio del Bootcamp de Desarrollo Web de Tecnolochicas PRO
+# Portafolio del Bootcamp de Desarrollo Front-End de Tecnolochicas PRO
 
 Este proyecto, proporcionado por Tecnolochicas PRO en el Bootcamp, es una página web adaptable ("responsive"). En ella, exhibo algunos de mis proyectos relacionados con la programación y desarrrollo web, así como también comparto mi experiencia profesional y académico, además de ofrecer distintas vías de contacto.
 
